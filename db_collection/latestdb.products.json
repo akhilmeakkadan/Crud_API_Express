@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "64d079f6386ef86dd4f7541e"
+  },
+  "name": "Chees",
+  "price": 100,
+  "utility": [
+    "Delivery"
+  ],
+  "weight": "100",
+  "onSale": true,
+  "__v": 0
+}]
